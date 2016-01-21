@@ -1,0 +1,13 @@
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.exe.config
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.exe
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\bin\Debug\MapTest.pdb
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.csprojResolveAssemblyReference.cache
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MainWindow.baml
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MainWindow.g.cs
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\App.g.cs
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest_MarkupCompile.cache
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.g.resources
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.Properties.Resources.resources
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.csproj.GenerateResource.Cache
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.exe
+c:\users\xy\documents\visual studio 2013\Projects\MapTest\MapTest\obj\Debug\MapTest.pdb
